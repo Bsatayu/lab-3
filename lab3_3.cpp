@@ -2,8 +2,8 @@
 
 using namespace std; 
 
-int (){
-    int 
+int main (){
+     cout<< "Hi"
     
 
 
